@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base app theme -->
+    <style name="Theme.ResumePro" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Splash screen theme for AndroidX SplashScreen API -->
+    <style name="Theme.ResumePro.Splash" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowSplashScreenBackground" tools:targetApi="31">#FF0A0E1A</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="31">@mipmap/ic_launcher_foreground</item>
+        <item name="android:statusBarColor">#FF0A0E1A</item>
+        <item name="android:navigationBarColor">#FF0A0E1A</item>
+    </style>
+</resources>

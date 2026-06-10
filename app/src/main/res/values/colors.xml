@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme Colors -->
+    <color name="deep_space">#FF0A0E1A</color>
+    <color name="cosmic_card">#FF141929</color>
+    <color name="nebula_purple">#FF6C3DE8</color>
+    <color name="cyber_cyan">#FF00F5FF</color>
+    <color name="star_white">#FFF0F4FF</color>
+    <color name="moon_gray">#FF8B95B0</color>
+    <color name="error_red">#FFFF4D6D</color>
+    <color name="success_green">#FF00E676</color>
+    <!-- System -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
