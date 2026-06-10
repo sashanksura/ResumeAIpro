@@ -1,6 +1,6 @@
 # ResumeAI Pro
 
-![ResumeAI Pro Banner](https://github.com/sashanksura/ResumeAIpro/blob/165ac95e88985dddcd469c4b433176c83e8099ac/WhatsApp%20Image%202026-05-24%20at%2010.42.16%20PM.jpeg)
+![ResumeAI Pro Boot]()
 
 ResumeAI Pro is a modern, AI-powered Android application designed to help users create, analyze, and optimize their resumes using state-of-the-art Large Language Models (LLMs). Featuring a sleek, futuristic UI, this app leverages NVIDIA NIM API integration to bring advanced AI capabilities directly to your device.
 
